@@ -16,7 +16,6 @@ http://localhost:8080/phpmyadmin/
 # What's Installed
 
 + Ubuntu Precise (12.04)
-+ Wordpress 3.8
 + Mysql
 + Php
 + Phpmyadmin
